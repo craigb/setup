@@ -1,0 +1,27 @@
+{
+    "git.ignoreLimitWarning": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.rulers": [80,120],
+    "editor.insertSpaces": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.stablePeek": true,
+    "vim.enableNeovim": true,
+    "vim.neovimPath": "D:\\tools\\Neovim\\bin\\nvim",
+    "vim.useCtrlKeys": true,
+    "vim.handleKeys": {
+        "<C-v>": false,
+        "<C-c>": false,
+        "<C-n>": false,
+        "<C-a>": false,
+        "<A-f>": false,
+        "<C-f>": false,
+        "<C-k>": false,
+        "<C-o>": false
+    },
+    "files.autoSave": "off",
+    "workbench.editor.enablePreview": false,
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "newUntitledFile",
+    "diffEditor.ignoreTrimWhitespace": false
+}
