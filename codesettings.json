@@ -1,0 +1,14 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "vim.handleKeys":
+    {
+        "<C-a>": false,
+        "<C-v>": false,
+        "<C-c>": false,
+        "<C-f>": false
+    },
+    "vim.neovimPath": "C:\\tools\\neovim\\Neovim\\bin\\nvim.exe",
+    "window.zoomLevel": 0,
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace"
+}
